@@ -7,6 +7,7 @@ Setup
 -----
 
 1. At first add several additional environment variables to your ~/.bash_profile:
+
 ```sh
 export EC2_AMI=ami-d0f89fb9 # AMI type to create
 export EC2_TYPE=t1.micro
