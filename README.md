@@ -1,7 +1,7 @@
 ec2-automation
 ==============
 
-Scripts for automating Amazon EC2 instance creation / bootstrapping for coursera startup class.
+Scripts for automating Amazon EC2 instance creation / bootstrapping.  When an EC2 instance is created, it's automatically configured to the development environment as specified in https://github.com/sunomie/ec2initialSetup/bootstrap.sh.  This configuration is based on the method taught in the coursera startup engineering class.
 
 Setup
 -----
